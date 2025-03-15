@@ -36,5 +36,6 @@ vita_create_vpk(${PROJECT_NAME}.vpk ${VITA_TITLEID} ${CMAKE_SOURCE_DIR}/love.sel
     NAME ${VITA_APP_NAME}
     FILE sce_sys sce_sys
     FILE module module
+	FILE game.love game.love
 	#    FILE ${CMAKE_BINARY_DIR}/game.love game.love
 )

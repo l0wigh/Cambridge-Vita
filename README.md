@@ -10,13 +10,13 @@ It runs on [LÖVE-Vita 11.5](https://github.com/L0Wigh/love-vita)
 
 Download and install the VPK file that is present in releases.
 
-Download game.love from [Cambridge Vita Edition](https://github.com/L0Wigh/Cambridge) and copy it to `ux0:/app/CMBR00000/` in your PSVita
-
-Launch the game !
-
 ## Save files
 
 Everything is located to `ux0:/data/love2d/cambridge`
+
+## Known issues
+
+Look [here](https://github.com/L0Wigh/Cambridge#known-issues) for known issues with this version.
 
 ## Credits
 
