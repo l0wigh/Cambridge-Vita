@@ -9,8 +9,8 @@
 	</gate>
 	<frame id="frame3">
 		<liveitem>
-			<text valign="bottom" align="left" text-align="left" text-valign="bottom" line-space="3" ellipsis="on">
-				<str color="#ffffff" size="35" bold="on" shadow="on"> Made with LÖVE</str>
+			<text valign="bottom" align="left" text-align="left" text-valign="bottom" line-space="3" margin-left="10" ellipsis="on">
+				<str color="#ffffff" size="35" bold="on" shadow="on">Made with LÖVE</str>
 			</text>
 		</liveitem>
 	</frame>
