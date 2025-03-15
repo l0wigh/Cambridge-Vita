@@ -17,3 +17,7 @@ Launch the game !
 ## Save files
 
 Everything is located to `ux0:/data/love2d/cambridge`
+
+## Credits
+
+[isage](https://github.com/isage) for the original LÖVE engine and Mari0 port. And also for all the help he gave me on **every single** projects I made for the Vita.
