@@ -1,6 +1,6 @@
-# Cambridge Launcher for PSVita
+# Cambridge for PSVita
 
-This is the launcher for [Cambridge Vita Edition](https://github.com/L0Wigh/Cambridge)
+This is working as a launcher for [Cambridge Vita Edition](https://github.com/L0Wigh/Cambridge)
 
 It can be used as a base for other LÖVE based games.
 
